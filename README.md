@@ -58,9 +58,3 @@ Visit us at: [https://ideai.dev](https://ideai.dev)
 
 We welcome contributions! Please feel free to submit pull requests or open issues for discussion.
 
-## 📄 License
-
-[MIT License](LICENSE)
-
----
-Made with ❤️ by Ryan and Daniel
