@@ -1,6 +1,5 @@
 # IdeAI.dev: Empowering Innovation Through AI-Driven Idea Search Engine
 
-[![Deployed on Zeabur](https://zeabur.com/deployed-button.svg)](https://ideai.dev)
 
 ## 🚀 Overview
 
